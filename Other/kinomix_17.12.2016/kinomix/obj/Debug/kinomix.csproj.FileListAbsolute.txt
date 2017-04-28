@@ -1,0 +1,11 @@
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\bin\Debug\kinomix.exe.config
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\bin\Debug\kinomix.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\bin\Debug\kinomix.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\obj\Debug\kinomix.Form1.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\obj\Debug\kinomix.Properties.Resources.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\obj\Debug\kinomix.csproj.GenerateResource.Cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\obj\Debug\kinomix.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\obj\Debug\kinomix.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\obj\Debug\kinomix.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\kinomix\kinomix\obj\Debug\kinomix.Form2.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\Kinomix\kinomix\obj\Debug\kinomix.Form3.resources
