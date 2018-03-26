@@ -28,7 +28,7 @@ namespace kinomix
         }
         void img (int j)
     {
-        string name = Convert.ToString("C:\\Users\\home\\Documents\\Visual Studio 2012\\Projects\\kinomix\\kinomix\\bin\\Debug\\Resources\\" +  j + ".bmp");
+        string name = Convert.ToString("Resources\\" +  j + ".bmp");
         Bitmap image1 = new Bitmap(name);
         pictureBox1.Image = image1;
     }
